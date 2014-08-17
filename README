@@ -1,0 +1,2 @@
+This is a simple project that works as a currency converter, given the currency conversation rates. The rates are currently stored as a hashmap in the CurrencyConverter class. 
+The formate Currency1:Currency2=amount implies that 1 Currency1 equal to amount Currency2. For example, Dollar:Euro=1.35 implies 1 Dollar = 13.5 Euros
